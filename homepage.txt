@@ -1,0 +1,57 @@
+Generic website
+First website ever - http://info.cern.ch/hypertext/WWW/TheProject.html
+
+Location: 43.7061231, -72.2703389
+Page: https://www.google.com/maps/place/43%C2%B042'22.0%22N+72%C2%B016'13.2%22W
+Takeout: https://www.google.com/maps/search/takeout+hanover+pa   /@39.8105536,-76.9880567,14z/data=!3m1!4b1
+OR (on safari): https://www.google.com/maps/search/Takeout/@43.6652785,-72.3239618
+Directions: https://www.google.com/maps/dir/7+Rayton+Rd,+Hanover,+NH+03755/Tuk+Tuk+Thai+Cuisine,+5+Main+St,+Hanover,+NH+03755
+
+Languages:
+index - title with switching languages (fade)
+lorem ipsum -generate https://lipsum.com
+Pig latin - translator
+Python, SQL, CSS, HTML, javascript, C, Pseudocode - photos of coder in natural habitat, common errors, jokes
+German and Spanish - Location for nearest restaurant/language center
+
+
+Javascript uses:
+change something with button
+blink
+counter/time
+Geolocation
+Pop-up
+Select - form
+Alert
+
+<hr width="50%" size="3" />
+
+<form action="mailto:you@yourdomain.com ">
+  Name: <input name="Name" value="" size="80"><br>
+  Email: <input name="Email" value="" size="80"><br>
+  <br><center><input type="submit"></center>
+</form>
+
+<form method=post action="/cgibin/example.cgi">
+<input type="text" style="color: #ffffff;
+ font-family: Verdana; font-weight: bold;
+ fontsize: 12px; background-color: #72a4d2;"
+ size="10" maxlength="30">
+<input type="Submit" value="Submit">
+</form>
+
+<form method=post action="/cgibin/example.cgi">
+<center> Select an option:<select>
+<option>option 1</option>
+<option selected>option 2</option>
+<option>option 3</option>
+</form>
+
+<form method=post action="/cgibin/example.cgi">
+Select an option:<br>
+<input type="radio" name="option"> Option 1
+<input type="radio" name="option" checked> Option 2
+<input type="radio" name="option"> Option 3
+
+get image - https://developers.google.com/web/fundamentals/media/capturing-images
+https://stackoverflow.com/questions/22087076/how-to-make-a-simple-image-upload-using-javascript-html
